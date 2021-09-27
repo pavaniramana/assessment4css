@@ -1,0 +1,212 @@
+.heading1{
+    background-image: url(https://media.istockphoto.com/vectors/abstract-blurred-colorful-background-vector-id1248542684?k=20&m=1248542684&s=612x612&w=0&h=1yKiRrtPhiqUJXS_yJDwMGVHVkYRk2pJX4PG3TT4ZYM=);
+    text-align: center;
+    background-repeat: repeat;
+    color: whitesmoke;
+}
+.box1{
+    
+    border: 5px solid mediumblue;
+    border-radius: 16px;
+    background-color: lightblue;
+    margin-left: 341px;
+    top: 50px;
+    width: 50%;
+    text-align: center;
+    
+}
+.box{
+    background-color: mediumaquamarine;
+    width: 100%;
+    height: 237px;
+    border-radius: 5px;
+    margin-top: 50px;
+    border: 5px solid greenyellow;
+    font-weight:bolder ;
+    font-size: large;
+
+}
+.box2{
+    border: 2px solid green;
+    width: 30%;
+    height: 90px;
+    border-radius: 5px;
+    background-color: aqua;
+    margin-left: 10px;
+}
+.box3{
+    border: 2px solid green;
+    width: 30%;
+    height: 90px;
+    border-radius: 5px;
+    background-color: aqua;
+    margin-left: 520px;
+    margin-top: -94px;
+}
+.box4{
+    border: 2px solid green;
+    width: 30%;
+    height: 90px;
+    border-radius: 5px;
+    background-color: aqua;
+    margin-left: 520px;
+    margin-top: 015px;
+}
+.box5{
+    border: 2px solid green;
+    width: 30%;
+    height: 90px;
+    border-radius: 5px;
+    background-color: aqua;
+    margin-left: 1036px;
+    margin-top: -200px;
+}
+.heading2{
+    text-decoration-line: underline;
+    background-image: url(https://media.istockphoto.com/photos/textured-rainbow-painted-background-picture-id801444286?k=20&m=801444286&s=612x612&w=0&h=CNfOWk0C5efBmGTci53dVLaKUw2inGAuEVB7kW3hZCk=);
+    text-align: center ;
+}
+.table{
+    border: 4px solid cadetblue;
+    border-radius: 7px;
+    width: 100%;
+    height: 269px;
+    background-color: cyan;
+}
+.text1{
+    background-color: white;
+    border: 4px solid tomato;
+    color: red;
+    text-decoration-line: underline;
+    font-size: large;
+    font-style: italic;
+    height: 140px;
+    width: 150px;
+    border-radius: 5px;
+    text-align: center;
+    position: absolute;
+    top: 653px;
+    margin-left: 109px;
+}
+.text2{
+    background-color: lightcyan;
+    border: 4px solid tomato;
+    color: red;
+    text-decoration-line: underline;
+    font-size: large;
+    font-style: italic;
+    height: 140px;
+    width: 150px;
+    border-radius: 5px;
+    text-align: center;
+    position: absolute;
+    top: 653px;
+    margin-left: 478px;
+}
+.text3{
+    background-color: lightcyan;
+    border: 4px solid tomato;
+    color: red;
+    text-decoration-line: underline;
+    font-size: large;
+    font-style: italic;
+    height: 140px;
+    width: 150px;
+    border-radius: 5px;
+    text-align: center;
+    position: absolute;
+    top: 653px;
+    margin-left: 866px;
+}
+.text4{
+    background-color: white;
+    border: 4px solid tomato;
+    color: red;
+    text-decoration-line: underline;
+    font-size: large;
+    font-style: italic;
+    height: 140px;
+    width: 150px;
+    border-radius: 5px;
+    text-align: center;
+    position: absolute;
+    top: 653px;
+    margin-left: 1213px;
+}
+.table1{
+    width: 94%;
+    height: 185px;
+    border: 8px solid white;
+    background-color: dimgrey;
+    margin-left: 26px;
+    margin-top: 37px;
+    filter: blur(11px);
+}
+.heading3{
+    border: 2px solid greenyellow;
+    background-color: tomato;
+    width: 100%;
+    height: 70px;
+    text-align: center;
+}
+.features1{
+    background-color: rgb(143, 235, 143);
+    color: tomato;
+    width: 28%;
+    height: 88px;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+}
+.features2{
+    background-color: rgb(83, 192, 235);
+    color: tomato;
+    width: 28%;
+    height: 88px;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    position: absolute;
+    top: 1020px;
+    margin-left: 442px;    
+}
+.features3{
+    background-color: rgb(199, 154, 241);
+    color: tomato;
+    width: 28%;
+    height: 88px;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    position: absolute;
+    top: 1020px;
+    margin-left: 885px;    
+}
+.features4{
+    background-color: black;
+    color: tomato;
+    width: 124px;
+    height: 276px;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    position: absolute;
+    top: 988px;
+    margin-left: 1381px;
+    color: white; 
+}
+.features5{
+    background-color: rgb(240, 198, 121);
+    color: tomato;
+    width: 91%;
+    height: 88px;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+}
+.ending{
+    background-color: thistle;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+}
